@@ -1,17 +1,17 @@
-# Metodologias Ágeis de Desenvolvimento de Software (2023/2024)
+# Gestao de Seguranca de Informacao (2023/2024)
 ## Ferramentas
-[<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=18705)
+[<kbd> <br> **E-Campus** <br> </kbd>](https://e-campus.ismai.pt/004358/AnoLectivo/2023/Curso_31003/3_Ano/6C1469/default.aspx)
 ## Informações da Disciplina
 ### Descrição 
 --
 ### Testes
 ### Tipo: 
-- [ ] Teórica: 
+- [x] Teórica: 
 - [ ] Prática: 
 - [ ] Teórico-prática: 
 ### Informações do Professor:
-- Nome: 
-- E-Mail: 
+- Nome: Dário Fernandes de Morais Carreira
+- E-Mail: D011688@umaia.pt
 ## Resumos
 
 ## 
